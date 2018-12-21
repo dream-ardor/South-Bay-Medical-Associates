@@ -163,7 +163,7 @@ banner
 	text-transform: uppercase;
     padding-bottom:15px;
     color: white;
-    text-shadow: 3px 3px teal;
+    text-shadow: 3px 1.5px orangered;
 }
 .btn-appoint, .btn-appoint:hover, .btn-appoint:focus{
 	margin-top: 30px;
